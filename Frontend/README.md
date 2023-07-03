@@ -1,0 +1,1 @@
+Basics Frontend for the company partner viewer created by the famous create-react-app.
